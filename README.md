@@ -7,11 +7,11 @@ The data analytics team at KSMC is dedicated to solving our client's most diffic
 Helpful Links to Manage our Development Lifecycle
 -------------------------------------------------
 - [General information on software project management with Github](https://zube.io/blog/agile-project-management-workflow-for-github-issues/)
-- (https://stackoverflow.com/questions/39591795/what-is-the-difference-relationship-between-github-projects-and-milestones "Projects vs. Issues")
-- (https://help.github.com/articles/creating-releases/ "Releases")
-- (http://nvie.com/posts/a-successful-git-branching-model/ "Branching and Release Model")
+- [Projects vs. Issues](https://stackoverflow.com/questions/39591795/what-is-the-difference-relationship-between-github-projects-and-milestones)
+- [Releases](https://help.github.com/articles/creating-releases/)
+- [Branching and Release Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 Some Additional Ideas
 ---------------------
-- (https://blog.axosoft.com/2017/01/31/gitflow/ "plugin to assist")
+- [GitFlow-- plugin to help](https://blog.axosoft.com/2017/01/31/gitflow/)
 
