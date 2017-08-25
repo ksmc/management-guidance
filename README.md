@@ -6,7 +6,7 @@ The data analytics team at KSMC is dedicated to solving our client's most diffic
 
 Helpful Links to Manage our Development Lifecycle
 -------------------------------------------------
-    - (https://zube.io/blog/agile-project-management-workflow-for-github-issues/ "General information on software project management with Github")
+    - [General information on software project management with Github](https://zube.io/blog/agile-project-management-workflow-for-github-issues/)
     - (https://stackoverflow.com/questions/39591795/what-is-the-difference-relationship-between-github-projects-and-milestones "Projects vs. Issues")
     - (https://help.github.com/articles/creating-releases/ "Releases")
     - (http://nvie.com/posts/a-successful-git-branching-model/ "Branching and Release Model")
