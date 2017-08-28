@@ -16,3 +16,4 @@ Some Additional Ideas
 ---------------------
 - [GitFlow-- plugin to help](https://blog.axosoft.com/2017/01/31/gitflow/)
 
+testing closing issue 1
