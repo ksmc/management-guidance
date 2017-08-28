@@ -10,6 +10,7 @@ Helpful Links to Manage our Development Lifecycle
 - [Projects vs. Issues](https://stackoverflow.com/questions/39591795/what-is-the-difference-relationship-between-github-projects-and-milestones)
 - [Releases](https://help.github.com/articles/creating-releases/)
 - [Branching and Release Model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Closing issues with commit descriptions](https://help.github.com/articles/closing-issues-using-keywords/)
 
 Some Additional Ideas
 ---------------------
