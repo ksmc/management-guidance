@@ -6,8 +6,10 @@ The data analytics team at KSMC is dedicated to solving our client's most diffic
 
 Tips to Manage our Repositories
 -------------------------------
+- [Github Style and Naming Convention](https://github.com/agis/git-style-guide)
 - [How to merge two repositories with unrelated commit histories](https://github.com/ksmc/ksmc.github.io/tree/master/tips/merge-repo.sh)
 - [How to understand Github Branch Model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [How to fork and make improvements to open source libraries](https://github.com/ksmc/ksmc.github.io/tree/master/tips/fork-and-improve.sh)
 
 Helpful Links to Manage our Development Lifecycle
 -------------------------------------------------

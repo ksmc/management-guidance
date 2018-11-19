@@ -20,4 +20,4 @@ git remote update
 git merge -S --allow-unrelated-histories repo-A/pack-to-move
 git push origin reorganize
 
-# Review and create pull request on Github
+# On Github webpage, Review and create pull request from reorganize and discuss with your reviewers
