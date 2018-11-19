@@ -4,6 +4,11 @@ About
 -----
 The data analytics team at KSMC is dedicated to solving our client's most difficult problems with flexible, scalable, and innovative solutions.  We believe the future is written by those who collaborate, cooperate, and build thoughtfully on the work of others.
 
+Tips to Manage our Repositories
+-------------------------------
+- [How to merge two repositories with unrelated commit histories](https://github.com/ksmc/ksmc.github.io/tree/master/tips/merge-repo.sh)
+- [How to understand Github Branch Model](https://nvie.com/posts/a-successful-git-branching-model/)
+
 Helpful Links to Manage our Development Lifecycle
 -------------------------------------------------
 - [General information on software project management with Github](https://zube.io/blog/agile-project-management-workflow-for-github-issues/)
