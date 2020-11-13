@@ -4,6 +4,17 @@ About
 -----
 The data analytics team at KSMC is dedicated to solving our client's most difficult problems with flexible, scalable, and innovative solutions.  We believe the future is written by those who collaborate, cooperate, and build thoughtfully on the work of others.
 
+Upon Creating a Repo
+-----
+- Use <client_code>-<project_code>-<component_or_module> as the default name of your repository.
+
+- Commit a README to include the deployment guide and links to necessary document or resource.
+
+- By default, set <master> as the default branch.
+  
+- Once repo created, grant access to the team you want to share or collaborate.
+
+
 Tips to Manage our Repositories
 -------------------------------
 - [Github Style and Naming Convention](https://github.com/agis/git-style-guide)
