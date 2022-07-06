@@ -10,7 +10,7 @@ Upon Creating a Repo
 
 - Commit a README to include the deployment guide and links to necessary document or resource.
 
-- By default, set <master> as the default branch.
+- By default, set <master> or <main> as the default branch.
   
 - Once repo created, grant access to the team you want to share or collaborate.
 
