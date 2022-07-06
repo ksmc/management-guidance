@@ -14,6 +14,10 @@ Upon Creating a Repo
   
 - Once repo created, grant access to the team you want to share or collaborate.
 
+- If the repo is a clone or replica from Resultant bitbucket, client's gitlab, or other orgs, please note the URL to the repo in the description or README.md, even if no one can't access the URL directly. 
+
+- If you want to move a repo to bitbucket and continue development there, please archived the repo so everyone knows it is no longer supported in github. 
+
 
 Tips to Manage our Repositories
 -------------------------------
